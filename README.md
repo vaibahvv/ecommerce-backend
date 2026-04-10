@@ -15,6 +15,13 @@
 ```json
 [{"id":1,"name":"iPhone 15 Pro","price":1199.99,"stock":40}]
 ```
+## 🎬 Live Demo Screenshots
+
+**Terminal (API running on port 8090):**
+![Terminal Demo](api-terminal.png)
+
+**Products API Response (MySQL data):**
+![Products JSON](demo-products.png)
 
 ## 🚀 Quick Start
 ```bash
