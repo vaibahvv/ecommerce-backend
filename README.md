@@ -23,13 +23,14 @@
 **Products API Response (MySQL data):**
 ![Products JSON](demo-products.png)
 
-## 🚀 Quick Start
+## 🚀 Quick Start (30 seconds)
 ```bash
-git clone https://github.com/vaibhavsaxena/ecommerce-backend.git
+git clone https://github.com/vaibahvv/ecommerce-backend.git
 cd ecommerce-backend
-chmod +x mvnw
 ./mvnw spring-boot:run
 ```
+
+**Test API:** http://localhost:8090
 
 ## 🛠 Tech Stack
 - Spring Boot 3.4.1
